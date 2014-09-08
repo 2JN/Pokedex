@@ -1,0 +1,40 @@
+body {
+	background-image: url(http://th02.deviantart.net/fs71/PRE/i/2014/091/a/2/hoenn_pokedex_by_crystalcraftangel-d7chloa.png);
+	background-attachment: fixed;
+}
+
+a {
+	color: yellow;
+	text-decoration: none;
+}
+
+div {
+	text-align: center;
+}
+
+#nombre {
+	width: 188px;
+	display: inline-block;
+	color: yellow;
+}
+
+#pk {
+	text-align: center;
+}
+
+table{
+	border:3px solid yellow;
+	border-radius: 5px;
+	margin: auto;
+}
+
+tbody {
+	text-align: center;
+	background: white;
+}
+
+td {
+	width: 100px;
+	background-color: gray; 
+	color: white;
+}
